@@ -1,0 +1,4 @@
+[Log4j] 2021-09-261 08-55-53  ERROR:This is a error message 
+[Log4j] 2021-09-261 08-55-53  FATAL:This is a fatal message 
+[Log4j] 2021-09-261 08-57-15  ERROR:This is a error message 
+[Log4j] 2021-09-261 08-57-15  FATAL:This is a fatal message 
